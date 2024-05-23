@@ -1,4 +1,4 @@
-#Requirements for HubSpot Private App Integration:
+# Requirements for HubSpot Private App Integration:
 - **requests==2.26.0**: This library is used for making HTTP requests to the HubSpot API.
 
 # HubSpot Private App Creation Steps:
